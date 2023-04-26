@@ -13,5 +13,10 @@ Backend:
 
 ![jscritp](https://user-images.githubusercontent.com/95058605/234448578-e36c4709-8019-49ff-9501-e520141bf57c.png)
 
+Frameworks:
+
+![image](https://user-images.githubusercontent.com/95058605/234449697-215d9324-0fe4-4527-bab4-9c91bcc255c2.png)
+
+
 
 
