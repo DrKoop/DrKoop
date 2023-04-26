@@ -15,7 +15,7 @@ Backend:
 
 Frameworks:
 
-![image](https://user-images.githubusercontent.com/95058605/234449697-215d9324-0fe4-4527-bab4-9c91bcc255c2.png)
+![image](https://user-images.githubusercontent.com/95058605/234449777-fe01befe-56ed-45ad-96ae-869c5e459e85.png)
 
 
 
