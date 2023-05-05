@@ -10,8 +10,8 @@ Frontend :
 Backend:
 
 <div>
-<img src="https://user-images.githubusercontent.com/95058605/234448384-0b535cf5-8bab-4a1b-93fd-72a5240f26f8.png" align="center" width="100" height="128" alt="" title="" class="img-small">
- <img src="https://user-images.githubusercontent.com/95058605/234448578-e36c4709-8019-49ff-9501-e520141bf57c.png" align="center" width="100" height="128" alt="" title="" class="img-small">
+<img src="https://user-images.githubusercontent.com/95058605/234448384-0b535cf5-8bab-4a1b-93fd-72a5240f26f8.png" align="center" width="68" height="128" alt="" title="" class="img-small">
+ <img src="https://user-images.githubusercontent.com/95058605/234448578-e36c4709-8019-49ff-9501-e520141bf57c.png" align="center" width="68" height="128" alt="" title="" class="img-small">
 </div>
 
 
